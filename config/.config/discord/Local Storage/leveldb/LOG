@@ -1,0 +1,6 @@
+2026/03/16-10:34:00.022 5b8 Reusing MANIFEST /home/chase/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/03/16-10:34:00.028 5b8 Recovering log #127
+2026/03/16-10:34:00.031 5b8 Reusing old log /home/chase/.config/discord/Local Storage/leveldb/000127.log 
+2026/03/16-10:52:11.886 5b9 Level-0 table #131: started
+2026/03/16-10:52:11.939 5b9 Level-0 table #131: 4703356 bytes OK
+2026/03/16-10:52:11.944 5b9 Delete type=0 #127
